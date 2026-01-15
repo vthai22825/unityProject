@@ -12,3 +12,6 @@
 *.csproj
 *.sln
 *.user
+
+.vs/
+*.slnx
